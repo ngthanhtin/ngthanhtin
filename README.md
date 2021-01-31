@@ -29,7 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://github.com/ngthanhtin/ngthanhtin/blob/main/facebook.png?raw=true (facebook icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
