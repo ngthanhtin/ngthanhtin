@@ -59,9 +59,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/ngth
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.facebook.com/tin.nguyenthanh.35175/
+[2]: https://github.com/ngthanhtin
+[3]: https://www.linkedin.com/in/nguy%E1%BB%85n-tha%CC%80nh-ti%CC%81n-438a1211a/
 
 
 <!-- Resources -->
