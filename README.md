@@ -51,6 +51,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/nguy%E1%BB%85n-tha%CC%80nh-ti%CC%81n-438a1211a/
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ngthanhtin&label=Profile%20views&color=0e75b6&style=flat" alt="ngth" /> </p>
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
