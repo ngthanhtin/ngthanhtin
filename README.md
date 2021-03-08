@@ -24,7 +24,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://github.com/ngthanhtin/ngthanhtin">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&langs_count=10,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&langs_count=4,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ngthanhtin/ngthanhtin">
