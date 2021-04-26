@@ -6,9 +6,11 @@
 
 My name is Nguyen Thanh Tin (Tin) and I'm an AI/Robotics Researcher. I'm from Vietnam, living in Seoul and currently studying in Korea. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
+<!--
 ## &#x270d; Blog & Writing
 I have a website cotaining my portfolio at [ngthanhtin.github.io](https://ngthanhtin.github.io/).
 Apart from coding, I also maintain a blog - you can find my articles on my website at [ngthanhtin.github.io/blog](https://ngthanhtin.github.io/blog).
+-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
