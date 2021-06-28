@@ -18,11 +18,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)<br/>
 ![](https://img.shields.io/badge/ROS-ROS-ff69b4) -->
-![](https://camo.githubusercontent.com/68dd2a887df10d8efd7afc118fb48211a7e398d0084a3b4b2f50a61513b223d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666
+<!-- ![](https://camo.githubusercontent.com/68dd2a887df10d8efd7afc118fb48211a7e398d0084a3b4b2f50a61513b223d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d6533346632363f7374796c653d666c61742d737175617265266c6f676f3d5079546f726368266c6f676f436f6c6f723d666666
 )
 ![](https://camo.githubusercontent.com/b2b3edaf0dec1b43cbc27740c343af91351772fa3815f722946a2f805ea75c2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666
-)
-## &#x1f4c8; GitHub Stats
+) -->
+
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ngthanhtin/ngthanhtin">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
@@ -55,7 +56,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [3]: https://www.linkedin.com/in/nguy%E1%BB%85n-tha%CC%80nh-ti%CC%81n-438a1211a/
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ngthanhtin&label=Profile%20views&color=0e75b6&style=flat" alt="ngth" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ngthanhtin&label=Profile%20views&color=0e75b6&style=flat" alt="ngth" /> </p> -->
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
