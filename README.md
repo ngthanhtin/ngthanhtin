@@ -23,16 +23,16 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://camo.githubusercontent.com/b2b3edaf0dec1b43cbc27740c343af91351772fa3815f722946a2f805ea75c2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656e736f72466c6f772d6535636430633f7374796c653d666c61742d737175617265266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d666666
 ) -->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
-<a href="https://github.com/ngthanhtin/ngthanhtin">
+<!-- <a href="https://github.com/ngthanhtin/ngthanhtin"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&langs_count=4,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngthanhtin&langs_count=4,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
 
-<a href="https://github.com/ngthanhtin/ngthanhtin">
+<!-- <a href="https://github.com/ngthanhtin/ngthanhtin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngthanhtin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tin's GitHub Stats" />
-</a>
+</a> -->
  
 
 <!-- links to social media icons -->
