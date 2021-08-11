@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://github.com/ngthanhtin/ngthanhtin/blob/main/wave.gif?raw=true" width="30px">
 
-My name is Nguyen Thanh Tin (Tin) and I'm an AI/Robotics Researcher. I'm from Vietnam, living in Seoul and currently studying in Korea. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<!-- My name is Nguyen Thanh Tin (Tin) and I'm an AI/Robotics Researcher. I'm from Vietnam, living in Seoul and currently studying in Korea. You can find me on [![Facebook][1.2]][1],  or on [![LinkedIn][3.2]][3]. -->
 
 <!--
 ## &#x270d; Blog & Writing
